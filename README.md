@@ -1,11 +1,10 @@
 # Welcome to my GitHub profile! 🌻
-### My name is Keylin Sanchez and I am studying Computer Science at the University of South Florida. 
-### I am set to graduate in August of 2022, and I'm from the Tampa Bay area. [Connect with me on LinkedIn!](https://www.linkedin.com/in/keylin-sanchez/)
+### I am a Computer Science graduate from the University of South Florida (Go Bulls!)
+### Currently, I'm working on two personal projects: an iOS app using Swift, and a webapp built using the FERN stack.
 ## 🛠️ Technologies & Tools
-#### I am currently working on two independent study projects. One is an iOS app using Swift, and the other is a webapp built using the FERN stack.
-#### I am comfortable using Windows, MacOS, and the Linux command line. My favorite IDE is Visual Studio Code. 
-#### The languages I have experience with are Python, C, C++, JavaScript, C#, Java, Swift, and SQL.
+#### I am comfortable with Windows, MacOS, and the Linux command line.
+#### The languages I have experience with are C++, Python, C, JavaScript, C#, Java, Swift, and SQL.
 ## 🌱 More about me!
-- 🗣 I speak fluent English and Spanish
-- 🇺🇸 I am a first-generation American, and a first-generation college student
-- 🤸‍♂️ Some of my hobbies include aerial arts, collecting records, and supporting local artists
+- 🗣 I speak fluent English and Spanish, and have studied French for eight years
+- 🇺🇸 I am a first-gen American, as well as a first-gen college graduate
+- 🤸‍♂️ Some hobbies of mine are aerial arts, collecting records, and supporting local artists
