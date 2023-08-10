@@ -1,5 +1,5 @@
 # Keylin's GitHub Dojo :tanabata_tree:
-### I'm an enthusiastic and aspiring Software Engineer with a strong passion for coding, problem-solving, and continuous learning. I'm here to showcase my projects, growth, and dedication to the world of software development.
+### I'm an enthusiastic Software Engineer with a strong passion for coding, problem-solving, and continuous learning. I'm here to showcase my projects, growth, and dedication to the world of software development.
 
 ## About Me
 
@@ -20,7 +20,11 @@
 ## 💼 Current Projects
 
 - **Companion Garden Mapper** - An interactive website that helps users plan their garden layouts by testing plant compatibility.
+  - *Tech Stack:* ReactJS, GraphQL, AWS Amplify Storage
+  - [Repo Link](https://github.com/kbsanchez/friendly-garden)
 - **RepTitles Document Generator** - A web application for reptile breeders to generate and keep track of birth and sale documents.
+  - *Tech Stack:* ReactJS, GraphQL, AWS Amplify Storage
+  - [Repo Link](https://github.com/kbsanchez/RepTitles)
 
 ## 📚 Learning Goals
 
